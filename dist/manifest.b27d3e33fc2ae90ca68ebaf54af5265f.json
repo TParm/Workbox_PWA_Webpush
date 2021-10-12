@@ -1,0 +1,52 @@
+{
+  "icons": [
+    {
+      "src": "./icon_1024x1024.d5025b4637c5eae431ee77c2ea282715.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icon_1024x1024.d5025b4637c5eae431ee77c2ea282715.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_512x512.4131e3a1958033f0857527a6a32dd91b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_384x384.a6aabff36fb051f956d3674a504619e7.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_256x256.d82116831bdb156a089802b3d2721592.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_192x192.bfbb6ffda4a43df3723b7a06117c4719.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_128x128.2aa50e22866b28f7d02070f568cbba5d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_96x96.1f6df00fc7071b9da94fa932713e9624.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "My Progressive Web App",
+  "short_name": "MyPWA",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "My awesome Progressive Web App!",
+  "background_color": "#ffffff"
+}
