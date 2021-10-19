@@ -53,7 +53,7 @@ function updateBtn() {
 function updateSubscriptionOnServer(subscription) {
   // TODO: Send subscription to application server
 
-  fetch("/api/save-subscription/", {method: 'POST', body: '{subscription}'}); 
+  // fetch("/api/save-subscription/", {method: 'POST', body: '{subscription}'}); 
   
   const subscriptionJson = code;
   const subscriptionDetails = sect;
