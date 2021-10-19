@@ -10,8 +10,7 @@ precacheAndRoute(self.__WB_MANIFEST);
 
 /* eslint-disable max-len */
 
-const applicationServerPublicKey =
-  "BBAkzDkbsUIH-lJWWv16qlStbz_QUU5oBmjoQPcCsN5byvPXV-SZRPdTH3qXHtMyas5RTD2rf5OJSduFaVKvbwg";
+const applicationServerPublicKey =  "BGR9dUZ-UlIFfVWIfSfkZ3lFP52RuXUPvXFE5fsL0CAXnawPKoQDLMKguQSTW6DCaCfEwMlVz9HPkXH8IztuMIM";
 
 /* eslint-enable max-len */
 
